@@ -93,4 +93,24 @@
 			$i++;
 		}
 	}
+	
+	function checkURL($array) {
+		$pattern = "#^https?://([a-z0-9-]+\.)*bebo\.com(/.*)?$#";
+		foreach ( $array as $url ) {
+  		if ( preg_match( $pattern, $url ) ) {
+    		$result[] .= "success";
+  		} else {
+  			$result[] .= "error";
+  		}
+		}
+		
+		foreach ($result as $key => $value) {
+			if ($value == "success") {
+				
+			} elseif ($value == "error") {
+				$final_result = "error";
+			}
+		}
+		return $final_result;
+	}
 ?>
