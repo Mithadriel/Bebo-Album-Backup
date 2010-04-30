@@ -7,7 +7,7 @@
 				<li><a href="get_images.php">2. Get Images!</a></li>
 			</ul>
 			<h2>Facebook</h2>
-			<iframe src="http://www.facebook.com/plugins/likebox.php?profile_id=115348351832797&amp;width=200&amp;connections=10&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" allowTransparency="true" style="border:none; overflow:hidden; width:200px; height:px"></iframe>
+			<!-- Facebook Badge START --><ul><li<center><a href="http://www.facebook.com/pages/Save-your-pictures-automagically/115348351832797" title="Save your pictures automagically!" target="_TOP"><img src="http://badge.facebook.com/badge/115348351832797.1303.1428799042.png" width="120" height="249" style="border: 0px;" /></a></center></li></ul><!-- Facebook Badge END -->
 		</div>
 		<div class="clearer">&nbsp;</div>
 	</div>
