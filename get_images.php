@@ -24,7 +24,7 @@
 					<div class=\"descr\">Your file is ready to be downloaded!</div>
 					<p>Go <a href=\"download_images.php?filename=" . $salt . "_bebo_pictures.zip\">here</a> to retrieve it.<br /><br /><b>Note:</b> Once you have downloaded your file, it will be removed from our server immediately for security reasons. If you need to download it again please repeat the process.</p>";
 				}	else {
-					echo "Hmm, something didn't work quite right! Please report it to <a mailto:\"johnathan@weleasewodewick.com\">johnathan@weleasewodewick.com</a>";
+					echo "Hmm, something didn't work quite right! Please report it to johnathan [at] weleasewodewick.com";
 				}
 				
 				// Tidy up pictures
@@ -32,7 +32,7 @@
 			} else {
 				echo "<h1>Error! :o(</h1>
 					    <div class=\"descr\">Problem with your URLs</div>
-					    <p>Oops ... one of your URL's doesn't look like a bebo.com address. Try copying and pasting from the Bebo App again. Or, if you think this is an error, email what you pasted to johnathan@weleasewodewick.com";
+					    <p>Oops ... one of your URL's doesn't look like a bebo.com address. Try copying and pasting from the Bebo App again. Or, if you think this is an error, email what you pasted to johnathan [at] weleasewodewick.com";
 			}	
 		} else {
 			// display form to kick off the process
