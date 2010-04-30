@@ -3,6 +3,7 @@
 
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta name="google-site-verification" content="Q7dpth-WxdAO_BeNX0weDFzKnL8n-JlIqjcRVpkaRQs" />
 <meta name="description" content="Implements a simple retrieval process using the Bebo API and provides a zip of all your images."/>
 <meta name="keywords" content="bebo, pictures, backup, download, get, retrieve"/> 
 <meta name="author" content="Johnathan Williamson"/> 
